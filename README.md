@@ -14,3 +14,8 @@ Notes from our NLP reading club!
  ### 2021 July
 
  [2021-07-01 Simple Recurrent Units for Highly Parallelizable Recurrence](./2021/July/2021-07-01_simple_recurrent_units_for_highly_parallelizable_recurrence.pdf) (Lei et al, 2018)
+ 
+[2021-07-08 Taming Pretrained Transformers for Extreme Multi-label Text Classification](./2021/July/2021-07-08_taming_pretrained_transformers_for_extreme_multi-label_text_classification.pdf) (Chang et al, 2020)
+
+[2021-07-015 Data Augmentation via Dependency Tree Morphing for Low-Resource Languages](./2021/July/2021-07-15_data_augmentation_via_dependency_tree_morphing_for_low_resource_languages.pdf) (Sahin et al, 2019)
+
